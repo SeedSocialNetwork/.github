@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Seed Social
+
+Complete this...
 
 <!--
 
